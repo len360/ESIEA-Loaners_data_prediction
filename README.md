@@ -2,7 +2,7 @@
 
 **Contributors:**  
 Lucas PUPAT  
-Cambyse MOUSSAVI  
+Cambyse MOUSSAVI AZARBAYEJANI
 Lenny PORCHER
 
 ---
@@ -42,4 +42,4 @@ Original data source: [BCR - Loaners Data for Solvency Prediction](https://www.k
 - `Loaners_data_prediction.ipynb` - Jupyter Notebooks containing the full data exploration and model training process
 - `README.md` - Project overview
 - `Project_summary.pdf` - Documentation outlining our observations, methodology, and reflections.
-- `Final_presentation.pptx` - The slideshow used for our final project presentation.
+- `Final_presentation.pdf` - The slideshow used for our final project presentation.
